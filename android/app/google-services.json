@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "645437698039",
+    "project_id": "deshimart-c45d6",
+    "storage_bucket": "deshimart-c45d6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:645437698039:android:f567a998fa86774d7b08f2",
+        "android_client_info": {
+          "package_name": "com.example.deshimart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDD-YsUNJ2rs6KJSE56NxuGnEWrUr_vPWM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
